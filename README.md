@@ -10,16 +10,24 @@
 ## 图谱融合
 
 ## 预训练
-1. ERNIE: Enhanced Language Representation with Informative Entities(tsinghua,LZY team, 将实体头尾等按照自定义格式，放到修改了的bert中进行训练，得到更具有知识的与训练表示)
+1. ERNIE: Enhanced Language Representation with Informative Entities()
 
 ## 图神经网络
 
 ## 多模态
-1. MMKG: Multi-Modal Knowledge Graphs
-1. Multi-modal Knowledge Graphs for Recommender Systems
+1. MMKG: Multi-Modal Knowledge Graphs, 15 million images, 450 million visual-similarity relations，
+1. Multi-modal Knowledge Graphs for Recommender Systems2020CIKM
+1. Zeroshot Multimodal Named Entity Disambiguation for Noisy Social Media Posts
+
+
 
 
 ## 精读
+1. ERNIE: Enhanced Language Representation with Informative Entities(tsinghua,LZY team, 将实体头尾等按照自定义格式，放到修改了的bert中进行训练，得到更具有知识的与训练表示)
+
+## NLP小常识
+1. The General Language Understanding Evaluation (GLUE) benchmark is a collectionof diverse natural language understanding tasks,has at least 8 datasets.
+2. relation classification datasets：FewRel
 
 ## auto append
 
