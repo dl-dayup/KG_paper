@@ -6,9 +6,6 @@
 1. FewRel:_A_Large-Scale_Supervised_Few-Shot_Relation_Classification 2021-01-21
 1. Hybrid_Attention-Based_Prototypical_Networks_for_Noisy_Few-Shot_Relation_Classification 2021-01-21
 1. Learning_Attention-based_Embeddings_for_Relation_Prediction_in_Knowledge_Graphs 2021-01-21
-<<<<<<< HEAD
-1. IMGpedia: a Linked Dataset with Content-based Analysis of Wikimedia Images 2021-01-23
-=======
 1. Graph Neural Networks with Generated Parameters for Relation Extraction
 
 ### 图谱融合
@@ -34,7 +31,4 @@
 2. relation classification datasets：FewRel
 
 ### auto append
-
-
->>>>>>> 01300be545306ef74b0928e9c0fe4132c6760337
 1. IMGpedia: a Linked Dataset with Content-based Analysis of Wikimedia Images 2021-01-23
