@@ -1,6 +1,7 @@
 ## KG_paper
 
 ### 实体识别 
+1. TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition. ACL2020 2021-01-26
 
 ### 关系抽取
 1. FewRel:_A_Large-Scale_Supervised_Few-Shot_Relation_Classification 2021-01-21
@@ -34,4 +35,4 @@
 1. IMGpedia: a Linked Dataset with Content-based Analysis of Wikimedia Images 2021-01-23
 1. COMET : Commonsense Transformers for Automatic Knowledge Graph Construction.ACL2019 2021-01-24
 1. Coreferential Reasoning Learning for Language Representation. EMNLP2020 2021-01-25
-1. TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition. ACL2020 2021-01-26
+
