@@ -36,3 +36,4 @@
 1. COMET : Commonsense Transformers for Automatic Knowledge Graph Construction.ACL2019 2021-01-24
 1. Coreferential Reasoning Learning for Language Representation. EMNLP2020 2021-01-25
 
+1. Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations 2021-01-27
