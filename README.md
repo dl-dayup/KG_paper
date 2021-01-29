@@ -45,3 +45,4 @@
 1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-28
 1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-28
 1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-28
+1. Representation Learning for Attributed Multiplex Heterogeneous Network. KDD2019 2021-01-29
