@@ -15,14 +15,13 @@
 1. ERNIE: Enhanced Language Representation with Informative Entities()
 
 ### 图神经网络
+1. Representation Learning for Attributed Multiplex Heterogeneous Network. KDD2019 2021-01-29
+
 
 ### 多模态
 1. MMKG: Multi-Modal Knowledge Graphs, 15 million images, 450 million visual-similarity relations，
 1. Multi-modal Knowledge Graphs for Recommender Systems2020CIKM
 1. Zeroshot Multimodal Named Entity Disambiguation for Noisy Social Media Posts
-
-
-
 
 ### 精读
 1. ERNIE: Enhanced Language Representation with Informative Entities(tsinghua,LZY team, 将实体头尾等按照自定义格式，放到修改了的bert中进行训练，得到更具有知识的与训练表示)
@@ -35,14 +34,7 @@
 1. IMGpedia: a Linked Dataset with Content-based Analysis of Wikimedia Images 2021-01-23
 1. COMET : Commonsense Transformers for Automatic Knowledge Graph Construction.ACL2019 2021-01-24
 1. Coreferential Reasoning Learning for Language Representation. EMNLP2020 2021-01-25
-
 1. Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations 2021-01-27
 1. Learning Dialog Policies from Weak Demonstrations 2021-01-27
 1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-27
-1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-27
-1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-27
-1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-28
-1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-28
-1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-28
-1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-28
-1. Representation Learning for Attributed Multiplex Heterogeneous Network. KDD2019 2021-01-29
+
