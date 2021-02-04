@@ -38,3 +38,4 @@
 1. Learning Dialog Policies from Weak Demonstrations 2021-01-27
 1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-27
 
+1. Enriching Pre-trained Language Model with Entity Information for Relation Classification(2019) 2021-02-04
