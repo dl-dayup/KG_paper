@@ -39,3 +39,4 @@
 1. Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog 2021-01-27
 
 1. Enriching Pre-trained Language Model with Entity Information for Relation Classification(2019) 2021-02-04
+1. DocRED: A Large-Scale Document-Level Relation Extraction Dataset （ACL2019) 2021-02-04
