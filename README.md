@@ -42,3 +42,4 @@
 1. DocRED: A Large-Scale Document-Level Relation Extraction Dataset （ACL2019) 2021-02-04
 1.  2021-02-07
 1. Distant supervision for relation extraction without labeled data (ACL2009) 2021-02-07
+1. Matching the Blanks: Distributional Similarity for Relation Learning（2019 GOOGlE) 2021-02-07
